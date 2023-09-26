@@ -1,4 +1,4 @@
-<h1>GitHUBPus<h1/>
+<h1>CONDIMENTS</h1>
 <ul>
   <li>
     Supervisor : LÊ THANH NHÂN
