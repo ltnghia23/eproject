@@ -32,7 +32,7 @@ Documentations : https://github.com/ltnghia23/eproject/tree/main/Documentations
 
 =======================================
 
-Published website :
+Published website : https://ltnghia23.github.io/eproject-condiments-n-spice/
 
 =======================================
 
