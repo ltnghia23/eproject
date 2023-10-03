@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eproject-condiments-n-spice/static/css/main.4247d131.css",
-    "main.js": "/eproject-condiments-n-spice/static/js/main.f3a29ebc.js",
+    "main.js": "/eproject-condiments-n-spice/static/js/main.c7cf7e1d.js",
     "static/media/shan-chilli-pickle-1kg.jpg": "/eproject-condiments-n-spice/static/media/shan-chilli-pickle-1kg.b3bb650238fe72be4457.jpg",
     "static/media/trustbanner2.png": "/eproject-condiments-n-spice/static/media/trustbanner2.6a3bad56b7970ab44fa3.png",
     "static/media/img-48.jpg": "/eproject-condiments-n-spice/static/media/img-48.e03fcd0c15e848012fe1.jpg",
@@ -13,10 +13,10 @@
     "static/media/logo-start-organic.png": "/eproject-condiments-n-spice/static/media/logo-start-organic.91817e63718e967c75dd.png",
     "index.html": "/eproject-condiments-n-spice/index.html",
     "main.4247d131.css.map": "/eproject-condiments-n-spice/static/css/main.4247d131.css.map",
-    "main.f3a29ebc.js.map": "/eproject-condiments-n-spice/static/js/main.f3a29ebc.js.map"
+    "main.c7cf7e1d.js.map": "/eproject-condiments-n-spice/static/js/main.c7cf7e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.4247d131.css",
-    "static/js/main.f3a29ebc.js"
+    "static/js/main.c7cf7e1d.js"
   ]
 }
