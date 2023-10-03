@@ -1,0 +1,15 @@
+.gallery-wrapper h2{
+    color: #82C341;
+    font-family: "Amatic SC", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.gallery-wrapper .card {
+    border: none !important; 
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+

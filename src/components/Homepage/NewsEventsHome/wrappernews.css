@@ -1,0 +1,22 @@
+
+
+
+   .wrappernews  img{
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover !important;
+}
+
+   @media (max-width: 991px) {
+    .wrappernews  h5 {
+        font-size: 1rem;
+    }
+    .wrappernews  img{
+        width: 100% !important;
+        max-height: 151px !important;
+        object-fit: cover !important;
+    }
+  }
+
+ 
+  
