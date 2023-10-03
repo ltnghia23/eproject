@@ -118,13 +118,13 @@ const Header = () => {
                         >
                             <span className="navbar-toggler-icon" />
                         </button>
-                        <Link to= "/" className="navbar-brand" >
+                        <a href= "/eproject-condiments-n-spice" className="navbar-brand" >
                             <img
                                 src={Logo}
                                 alt="logo-start-organic"
                                 height="60px"
                             />
-                        </Link>
+                        </a>
                         <div className="cart-mobile">
                             <div className="btn-group" id="cart-block">
                                 <a href="#" className="dropdown-toggle cart-icon" data-bs-toggle="dropdown">
@@ -270,9 +270,9 @@ const Header = () => {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav mb-2 mb-lg-0 jms-megamenu">
                                 <li className="nav-item">
-                                    <Link to="/" aria-current="page">
+                                    <a href='/eproject-condiments-n-spice' aria-current="page">
                                         Home
-                                    </Link>
+                                    </a>
                                 </li>
                                 <li className="nav-item">
                                     <Link to="/product">PRODUCT</Link>
